@@ -22,7 +22,7 @@ activer l’authentification fournie par DRF pour nous connecter. Éditons notre
 Démarrer serveur de développement et se connecter sur l'API à présent en place :
 > python manage.py runserver
 
-CMDS:
+CMDS:\n
 GET : Permet la lecture d'informations.
 Un peu comme un site Internet classique, les appels en GET renvoient des données qui sont généralement du HTML qui est lu et rendu dans le navigateur. Dans le cas d’une API, il s’agit de JSON.
 
