@@ -15,10 +15,10 @@ urlpatterns = [
     path('api-auth/', include('rest_framework.urls'))
 ]
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
+> python manage.py makemigrations
+> python manage.py migrate
+> python manage.py createsuperuser
 
 Démarrer serveur de développement et se connecter sur l'API à présent en place :
-python manage.py runserver
+> python manage.py runserver
 
