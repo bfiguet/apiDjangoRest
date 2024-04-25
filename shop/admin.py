@@ -24,3 +24,6 @@ class ArticleAdmin(admin.ModelAdmin):
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Article, ArticleAdmin)
+
+#user: bfiguet
+#pw: secret
